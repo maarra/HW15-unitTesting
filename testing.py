@@ -1,4 +1,5 @@
 import unittest
+from main import IntegerSet
 
 class TestIntegerSet(unittest.TestCase):
     def setUp(self):
